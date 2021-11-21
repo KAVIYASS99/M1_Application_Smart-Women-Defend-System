@@ -14,11 +14,10 @@ Women's safety is the most concerned issues in today's world. To overcome this p
 ![4w and 1h](https://user-images.githubusercontent.com/94182282/142768332-502ffa68-b541-4f2c-bda4-a78a5590d303.png)
 # **SWOT ANALYSIS**
 ![SWOT ANALYSIS](https://user-images.githubusercontent.com/94182282/142774365-d8acf0b3-2ad6-403b-9f74-ce9cc142e2e0.png)
-# **HIGH AND LOW LEVEL REQUIREMENTS**
-**HIGH LEVEL REQUIREMENTS**
+# **HIGH LEVEL REQUIREMENTS**
 - Shock is an important factor for self defend purpose
 - Buzzer will alert the neighbors
 - GSM,GPS will alert the respected numbers for easy tracking purpose
-* **LOW LEVEL REQUIREMENTS**
+# **LOW LEVEL REQUIREMENTS**
 - LCD is not necessary in real time
 - Push Button Activation is must
