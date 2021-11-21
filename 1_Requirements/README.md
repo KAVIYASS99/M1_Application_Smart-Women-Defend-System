@@ -19,6 +19,6 @@ Women's safety is the most concerned issues in today's world. To overcome this p
 - Shock is an important factor for self defend purpose
 - Buzzer will alert the neighbors
 - GSM,GPS will alert the respected numbers for easy tracking purpose
-**LOW LEVEL REQUIREMENTS**
+* **LOW LEVEL REQUIREMENTS**
 - LCD is not necessary in real time
 - Push Button Activation is must
