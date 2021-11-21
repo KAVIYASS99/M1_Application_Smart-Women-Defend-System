@@ -16,7 +16,7 @@ Women's safety is the most concerned issues in today's world. To overcome this p
 ![SWOT ANALYSIS](https://user-images.githubusercontent.com/94182282/142774365-d8acf0b3-2ad6-403b-9f74-ce9cc142e2e0.png)
 # **HIGH AND LOW LEVEL REQUIREMENTS**
 **HIGH LEVEL REQUIREMENTS**
-Shock is an important factor for self defend purpose
+* -Shock is an important factor for self defend purpose
 - Buzzer will alert the neighbors
 - GSM,GPS will alert the respected numbers for easy tracking purpose
 * **LOW LEVEL REQUIREMENTS**
