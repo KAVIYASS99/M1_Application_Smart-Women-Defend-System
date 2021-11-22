@@ -28,8 +28,6 @@ static void init(void) {
 	buzinit();
 	ledinit();
 	beep(2,100);
-	SPRINK_DDR		|= _BV(SPRINK_PIN) | _BV(SHOCK_PIN);
-	SPRINK_PORT		&= ~(_BV(SPRINK_PIN) | _BV(SHOCK_PIN));
 	lcdinit();
 	uartinit();
 	EXTINTinit();
