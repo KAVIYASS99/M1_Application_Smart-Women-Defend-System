@@ -6,6 +6,16 @@ Women's safety is the most concerned issues in today's world. To overcome this p
 - Alert the neighbors
 - Easy to use and track
 - Can be used for any threat purposes
+# **STATE OF ART/RESEARCH**
+**Before Technology**
+- Women are dependable 
+- Carry out Manual things eg. Pepper Spray
+- Feels afraid when threat occurs
+
+**After Technology**
+- Women becomes Independent
+- The device secures them by sending appropriate messages to appropriate person
+- Used for Self defend purpose
 # **4W AND 1H**
 ![4w and 1h](https://user-images.githubusercontent.com/94182282/142768332-502ffa68-b541-4f2c-bda4-a78a5590d303.png)
 # **SWOT ANALYSIS**
