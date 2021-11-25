@@ -16,7 +16,9 @@
 | :-------: |        
 | [![StaticcodeCppcheck](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/cppcheck.yml) |
 
-
+| Build Windows |
+| :-----------: |
+| [![Build Windows](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/build_windows.yml/badge.svg)](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/build_windows.yml) |
 
 
 ![code quality score](https://api.codiga.io/project/30024/score/svg )
