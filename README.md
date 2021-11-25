@@ -13,10 +13,6 @@
 | [![Unit_Testing](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/unit_testing.yml) |
 
 | Cpp Check |
-| :-------: |
-| [![Static code Cppcheck](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/cppcheck.yml) |
-
-| Cpp Check |
 | :-------: |        
 | [![StaticcodeCppcheck](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/cppcheck.yml) |
 
