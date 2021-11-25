@@ -6,4 +6,4 @@
 
 | Code Quality score | Code Grade |
 | :----------------: | :--------: |
-| [![Code Quality Score](https://api.codiga.io/project/30080/score/svg) | [!Code Grade](https://api.codiga.io/project/30080/status/svg) |
+| ![Code Quality Score](https://api.codiga.io/project/30080/score/svg) | ![Code Grade](https://api.codiga.io/project/30080/status/svg) |
