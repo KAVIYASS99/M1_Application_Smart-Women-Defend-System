@@ -20,9 +20,9 @@
 | :-----------: |
 | [![Build Windows](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/build_windows.yml/badge.svg)](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/build_windows.yml) |
 
-| Valgrind |
+| Valgrid |
 | :------: |
-| [![Valgrind](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/Valgrid.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/Valgrid.yml) |
+| [![Valgrid](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/Valgrid.yml/badge.svg)](https://github.com/KAVIYASS99/M1_Application_Smart-Women-Defend-System/actions/workflows/Valgrid.yml) |
 
 ![code quality score](https://api.codiga.io/project/30024/score/svg )
 
